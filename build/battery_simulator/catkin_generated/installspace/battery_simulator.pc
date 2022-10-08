@@ -1,0 +1,8 @@
+prefix=/home/arpan/Projects/RoboticArm/install
+
+Name: battery_simulator
+Description: Description of battery_simulator
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: actionlib_msgs

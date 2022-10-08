@@ -1,0 +1,2 @@
+arm_client:battery_simulator:robot_description
+-DCATKIN_DEVEL_PREFIX=/home/arpan/Projects/RoboticArm/devel -DCMAKE_INSTALL_PREFIX=/home/arpan/Projects/RoboticArm/install -G Unix Makefiles
